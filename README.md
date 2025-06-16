@@ -2,7 +2,7 @@
 
 ---
 
-# 🇧🇷 📘 Projeto de e-Book criado com IA's
+# 🇧🇷 Projeto de e-Book criado com IA's
 
 Este projeto tem como objetivo a criação de um e-Book intitulado **"O Poder do Pergaminho de CSS: Técnicas Avançadas para Devs Aventureiros"**, reunindo as principais novidades e técnicas de animações em CSS a partir do ano de 2020. A narrativa visual e textual é inspirada no universo da *Caverna do Dragão*.
 
@@ -44,8 +44,9 @@ Este projeto tem como objetivo a criação de um e-Book intitulado **"O Poder do
 <a href="https://github.com/augustoscaio/" target="_blank">GitHub</a> • <a href="https://www.linkedin.com/in/caio-augusto-sa/" target="_blank">LinkedIn</a>
 
 ---
+---
 
-# 🇺🇸 📘 e-Book Project Created with AIs
+# 🇺🇸 e-Book Project Created with AIs
 
 This project aims to create an e-Book titled **"The Power of the CSS Scroll: Advanced Techniques for Adventurous Devs"**, gathering the latest CSS animation techniques introduced since 2020. The visual and textual narrative is inspired by the *Dungeons & Dragons* cartoon universe.
 
