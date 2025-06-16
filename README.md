@@ -42,4 +42,4 @@ Este projeto tem como objetivo a criação de um e-Book intitulado **"O Poder do
 ## 👨‍💻 Expert
 
 **Caio Augusto**  
-[GitHub](https://github.com/augustoscaio/) • [LinkedIn](https://www.linkedin.com/in/caio-augusto-sa/)
+<a href="https://github.com/augustoscaio/" target="_blank">GitHub</a> • <a href="https://www.linkedin.com/in/caio-augusto-sa/" target="_blank">LinkedIn</a>
