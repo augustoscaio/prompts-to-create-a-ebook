@@ -1,12 +1,14 @@
-(https://github.com/augustoscaio/prompts-to-create-a-ebook/assets/apresentacao_github.jpg)
+![Apresentação do eBook](https://github.com/augustoscaio/prompts-to-create-a-ebook/raw/main/assets/apresentacao_github.jpg)
+
 
 # 📘 Projeto de e-Book criado com IA's
 
 Este projeto tem como objetivo a criação de um e-Book intitulado **"O Poder do Pergaminho de CSS: Técnicas Avançadas para Devs Aventureiros"**, reunindo as principais novidades e técnicas de animações em CSS a partir do ano de 2020. A narrativa visual e textual é inspirada no universo da *Caverna do Dragão*.
 
 ---
+ 
+📕 **[Clique aqui para ler](https://github.com/augustoscaio/prompts-to-create-a-ebook/raw/main/output/O%20Poder%20do%20Pergaminho%20de%20CSS%20-%20Técnicas%20Avançadas%20para%20Devs%20Aventureiros.pdf)**
 
-📕 **[Clique aqui para ler](https://github.com/augustoscaio/prompts-to-create-a-ebook/output/O Poder do Pergaminho de CSS - Técnicas Avançadas para Devs Aventureiros.pdf)**  
 
 ---
 
